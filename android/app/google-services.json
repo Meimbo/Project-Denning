@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307237015335",
+    "project_id": "project-denning",
+    "storage_bucket": "project-denning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307237015335:android:870b91d245b280589fa302",
+        "android_client_info": {
+          "package_name": "com.example.denning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307237015335-o50uhhji8nmvc3iem2ppvf73l6hp0v70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSY6hS_lxoihHfBS2-hwm90xFbjSS-Qwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307237015335-o50uhhji8nmvc3iem2ppvf73l6hp0v70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
